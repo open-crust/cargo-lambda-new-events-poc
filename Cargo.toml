@@ -1,0 +1,3 @@
+[workspace]
+members = ["documentdb", "event-bridge"]
+default-members = ["documentdb", "event-bridge"]
